@@ -1,2 +1,2 @@
 -- lists all the tables of a database in your MySQL server
-mysql -u user -p -e "USE mysql; SHOW TABLES;"
+mysql -u Ricki -p -e "USE hbtn_0c_0; SHOW TABLES;"
